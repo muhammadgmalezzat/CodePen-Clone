@@ -1,48 +1,65 @@
 
-<h1 style="color:#facd8a ">Food Delivery </h1>
+<h1 style="color:rgb(16 185 129 )">CodePen Clone </h1>
 
-## Listify To-Do List React Application   
+## Full Stack CodePen Clone React Application   
 
 
- A To-Do List app built with React and Redux
+CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets.
+ It functions as an online code editor and open-source learning environment, where developers can create code snippets, called "pens," and test them.
 
-<h1 style="color:#facd8a "> Front-end Technologies and liberaries </h1>
+<h1 style="color:rgb(16 185 129 ) "> Front-end Technologies and liberaries </h1>
 
-    - HTML
-    - CSS
-    - JavaScript
-    - React.js
-    - Redux
+    - HTML 
+    - CSS 
+    - JavaScript 
+    - React.js 
+    - Routing 
+    - Redux 
+    - Google Authentication 
     - Tailwind CSS
+    - FireBase 
     - Framer motion
     - React Icons
     - MUI
+    - Code Mirror 
+    - UUID 
+    - React Split Pane 
+    - React Loader Spinner 
 
 
+<h1 style="color:rgb(16 185 129 ) "> User Stories & Features</h1>
 
-<h1 style="color:#facd8a "> User Stories & Features</h1>
+    💹 As a visitor, you can see a visually appealing and intuitive landing page with a clear navigation menu so that you can easily understand the purpose of the website and find my way around.
 
-    💹 User can add a to-do item by typing in the input field and add By pressing enter (or a button), the 💹 User can submit the to-do item and can see that being added to a list of to-do's.
-    💹 User can mark a to-do as completed
-    💹 User can remove a to-do item by pressing on a button 
-    💹 User can edit a to-do
-    💹 User can see a list with all the completed to-do's
-    💹 User can see a list with all the incompleted to-do's
-    💹 User can see the date and time when user created the to-do
+    💹 As a registered user, you can be able to log in and log out of my account so that you can securely access and manage your pens and projects.
 
+    💹 As a registered user, you can create a new pen by providing a title, description, and choosing the appropriate HTML, CSS, and JavaScript settings so that you can start working on your code projects.
+
+    💹 As a user, you have a real-time code editor with separate tabs for HTML, CSS, and JavaScript, and the ability to see live previews of your code changes so that you can easily experiment and iterate on my projects.
+
+    💹 As a user, you can be able to search for pens based on keywords, tags so that you can discover interesting and relevant code projects.
+
+    💹 As a mobile user, the website is responsive and provide a seamless experience on different devices so that I can access and use CodePen on the go.
 
 
 <div style="display:block; ">
-  <h3 style="color:#facd8a ">Website Screenshot in Laptop screen </h3>
-    <h4 style="color:#facd8a ">Home Page </h4>
-    <img src='ScreenShoots/1.png' width="40%" style="border-radius: 20px; margin: 30px;" >  
-    
-    
-    
+  <h3 style="color:rgb(16 185 129 ) ">Website Screenshot in Laptop screen </h3>
+    <img src='ScreenShoots/1.jpg' width="90%" style="border-radius: 10px; margin: 30px;" >  
+    <img src='ScreenShoots/2.jpg' width="90%" style="border-radius: 10px; margin: 30px;" > 
+    <img src='ScreenShoots/3.jpg' width="90%" style="border-radius: 10px; margin: 30px;" >
 </div>
 
-<h1 style="color:#facd8a "> Check out Website Preview Here </h1>
+<!-- <h1 style="color:rgb(16 185 129 ) "> Check out Website Preview Here </h1>
 
 > [food-delivery.com](https://food-delivery-ashy.vercel.app/)
+ -->
+
+
+<h1 style="color:rgb(16 185 129 ) "> Check out Website Video Here </h1>
+
+> [Youtube video](https://youtu.be/31zRZG7TaO0)
+
+
+
 
 

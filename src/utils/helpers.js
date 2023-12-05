@@ -2,6 +2,7 @@ import { GoogleAuthProvider,signInWithPopup, GithubAuthProvider } from 'firebase
 import { auth} from '../config/firebase.config';
 import { v4 as uuidv4 } from 'uuid';
 
+
 const googleProvider = new GoogleAuthProvider();
 const githubProvider = new GithubAuthProvider();
 
@@ -26,7 +27,9 @@ export const Menus = [
 ];
 
 export const signOutAction = async () => {
-    await auth.signOut().then(() => { 
-        window.location.reload();
+    
+    await auth.signOut().then(() => {
+        
+        window.location.replace("/home/")
     });
 }
